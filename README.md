@@ -7,28 +7,14 @@ An end-to-end **Business Intelligence (BI)** solution developed as part of our D
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Organizations generate large volumes of transactional sales data that are difficult to analyze directly. This project demonstrates how to design a complete BI solution by building a centralized data warehouse and enabling analytical reporting for business decision-making.
 
 The pipeline extracts sales data from multiple sources, transforms and cleans it using **SQL Server Integration Services (SSIS)**, stores it in a dimensional **Data Warehouse**, builds an **OLAP Cube** using **SQL Server Analysis Services (SSAS)**, and visualizes KPIs through **Power BI** dashboards.
 
 ---
-
-## 🚀 Features
-
-- ✅ Automated ETL Pipeline using SSIS
-- ✅ Star Schema Data Warehouse Design
-- ✅ Fact & Dimension Tables
-- ✅ OLAP Cube using SSAS
-- ✅ Interactive Power BI Dashboards
-- ✅ Sales Performance Analysis
-- ✅ Customer Analytics
-- ✅ Product Performance Insights
-- ✅ Regional Sales Analysis
-- ✅ Time-based Business Reporting
-
----
+ 
 
 # 🏗️ System Architecture
 
@@ -53,7 +39,7 @@ The pipeline extracts sales data from multiple sources, transforms and cleans it
 
 ---
 
-# ⭐ Data Warehouse Design
+#  Data Warehouse Design
 
 The warehouse follows a **Star Schema** architecture.
 
@@ -71,7 +57,7 @@ The warehouse follows a **Star Schema** architecture.
 
 ---
 
-# ⚙️ ETL Workflow
+# ETL Workflow
 
 The ETL process consists of:
 
@@ -88,7 +74,7 @@ Implemented using:
 
 ---
 
-# 📈 Business Intelligence
+# Business Intelligence
 
 Using **SSAS**, we developed an OLAP cube with multiple hierarchies enabling multidimensional business analysis.
 
@@ -103,7 +89,7 @@ Using **SSAS**, we developed an OLAP cube with multiple hierarchies enabling mul
 ---
  
 
-# 📹 Project Demo
+#  Project Demo
 
 🎥 **Power BI Dashboard Walkthrough**
 
@@ -131,20 +117,4 @@ Using **SSAS**, we developed an OLAP cube with multiple hierarchies enabling mul
 
 ---
 
- 
-
-# 📚 Learning Outcomes
-
-Through this project, we gained practical experience in:
-
-- Data Warehousing
-- ETL Development
-- Dimensional Modeling
-- Business Intelligence
-- OLAP Cube Design
-- Data Visualization
-- Executive Reporting
-
----
- 
- 
+  
